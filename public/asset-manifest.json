@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.596a343e.css",
-  "main.css.map": "static/css/main.596a343e.css.map",
-  "main.js": "static/js/main.91517d57.js",
-  "main.js.map": "static/js/main.91517d57.js.map",
+  "main.css": "static/css/main.8e94e608.css",
+  "main.css.map": "static/css/main.8e94e608.css.map",
+  "main.js": "static/js/main.eb08c0fe.js",
+  "main.js.map": "static/js/main.eb08c0fe.js.map",
   "static/media/crying.svg": "static/media/crying.6eb7e219.svg",
   "static/media/down-arrow.svg": "static/media/down-arrow.291c60c5.svg",
   "static/media/happy.svg": "static/media/happy.575e2647.svg",
@@ -13,5 +13,6 @@
   "static/media/slick.svg": "static/media/slick.f97e3bbf.svg",
   "static/media/slick.ttf": "static/media/slick.d41f55a7.ttf",
   "static/media/slick.woff": "static/media/slick.b7c9e1e4.woff",
+  "static/media/white-coffee-cup.svg": "static/media/white-coffee-cup.6bed988e.svg",
   "static/media/wn-cup-logo.svg": "static/media/wn-cup-logo.6207fea0.svg"
 }
